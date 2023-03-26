@@ -23,7 +23,7 @@ There are several metrics/ratios that this Jupyter notebook will return:
 - **Price/Earnings**: the ratio for valuing a company that measures its current share price relative to its earnings per share (EPS).
 - **Price/Cash Flow**: is a stock valuation indicator or multiple that measures the value of a stock's price relative to its operating cash flow per share.
 - **Price/Book**: is the ratio of the market value of a company's shares (share price) over its book value of equity. The book value of equity, in turn, is the value of a company's assets expressed on the balance sheet.
-- **Price/Foward Earnings**: is a version of the ratio of price-to-earnings (P/E) that uses forecasted earnings for the P/E calculation. While the earnings used in this formula are just an estimate and not as reliable as current or historical earnings data, there are still benefits to estimated P/E analysis.
+- **Price/Forward Earnings**: is a version of the ratio of price-to-earnings (P/E) that uses forecasted earnings for the P/E calculation. While the earnings used in this formula are just an estimate and not as reliable as current or historical earnings data, there are still benefits to estimated P/E analysis.
 - **PEG Ratio**: is a valuation metric for determining the relative trade-off between the price of a stock, the earnings generated per share (EPS), and the company's expected growth.
 
 ## Contributing
